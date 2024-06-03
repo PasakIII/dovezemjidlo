@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&family=Roboto:ital,wght@0,400;1,400;1,700&display=swap');
+
+.cervena {background-color: rgb(255, 0, 21);}
+
+*{
+  box-sizing: border-box;
+}
+
+
+
+  #kvetak { 
+    max-width: 10%;
+  }
+
+  #file { 
+    max-width: 10%;
+  }
+
+  #koprovka { 
+    max-width: 10%;
+  }
+
+  main {
+    display: flex;
+  }
+
+  li {
+    display: inline-block;
+  }
+
+  #svickova {
+    background-image: url(./images/svickova.jpg);
+  }
+
+  #veprova {
+    background-image: url(./images/veprova.jpg);
+  }
+ 
+  #gulas {
+    background-image: url(./images/gulas.jpg);
+  }
